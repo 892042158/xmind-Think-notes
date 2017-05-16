@@ -1,0 +1,74 @@
+[Software Credits]
+Software=IconPackager 1.0
+Company=Stardock Systems, Inc
+Author=Brian Harper
+Website=http://www.stardock.com
+Email=support@stardock.com
+[Desktop Icons]
+My Documents=%ThemeDir%RazorArt_Ipack My Documents.ico
+My Computer=%ThemeDir%RazorArt_Ipack My Computer.ico
+Network Neighborhood=%ThemeDir%RazorArt_Ipack Network Neighborhood.ico
+Recycle Bin (empty)=%ThemeDir%RazorArt_Ipack Recycle Bin (empty).ico
+Recycle Bin (full)=%ThemeDir%RazorArt_Ipack Recycle Bin (full).ico
+[Start Icons]
+Programs=%ThemeDir%RazorArt_Ipack Programs.ico
+Documents=%ThemeDir%RazorArt_Ipack Documents.ico
+Settings=%ThemeDir%RazorArt_Ipack Settings.ico
+Find=%ThemeDir%RazorArt_Ipack Find.ico
+Help=%ThemeDir%RazorArt_Ipack Help.ico
+Run=%ThemeDir%RazorArt_Ipack Run.ico
+Shut Down=%ThemeDir%RazorArt_Ipack Shut Down.ico
+Settings - Control Panel=%ThemeDir%RazorArt_Ipack Settings - Control Panel.ico
+Settings - Printers=%ThemeDir%RazorArt_Ipack Settings - Printers.ico
+[Folder Icons]
+Closed Folder=%ThemeDir%RazorArt_Ipack Closed Folder.ico
+Open Folder=%ThemeDir%RazorArt_Ipack Open Folder.ico
+Program Group=%ThemeDir%RazorArt_Ipack Program Group.ico
+Control Panel=%ThemeDir%RazorArt_Ipack Control Panel.ico
+Administrative Tools=%ThemeDir%RazorArt_Ipack Administrative Tools.ico
+Fonts=%ThemeDir%RazorArt_Ipack Fonts.ico
+Dial-Up Networking=%ThemeDir%RazorArt_Ipack Dial-Up Networking.ico
+Printers=%ThemeDir%RazorArt_Ipack Printers.ico
+Scheduled Tasks=%ThemeDir%RazorArt_Ipack Scheduled Tasks.ico
+ActiveX Cache=%ThemeDir%RazorArt_Ipack ActiveX Cache.ico
+Favorites=%ThemeDir%RazorArt_Ipack Favorites.ico
+Url History=%ThemeDir%RazorArt_Ipack Url History.ico
+Subscriptions=%ThemeDir%RazorArt_Ipack Subscriptions.ico
+[Drive Icons]
+Floppy Drive (5.25)=%ThemeDir%RazorArt_Ipack Floppy Drive (5.25).ico
+Floppy Drive (3.5)=%ThemeDir%RazorArt_Ipack Floppy Drive (3.5).ico
+Hard Drive=%ThemeDir%RazorArt_Ipack Hard Drive.ico
+Network Drive (connected)=%ThemeDir%RazorArt_Ipack Network Drive (connected).ico
+Network Drive (offline)=%ThemeDir%RazorArt_Ipack Network Drive (offline).ico
+CD-ROM Drive=%ThemeDir%RazorArt_Ipack CD-ROM Drive.ico
+Removable Drive=%ThemeDir%RazorArt_Ipack Removable Drive.ico
+RAM Drive=%ThemeDir%RazorArt_Ipack RAM Drive.ico
+[Other Icons]
+Shortcut Overlay=%ThemeDir%RazorArt_Ipack Shortcut Overlay.ico
+Sharing Overlay=%ThemeDir%RazorArt_Ipack Sharing Overlay.ico
+Desktop=%ThemeDir%RazorArt_Ipack Desktop.ico
+Entire Network=%ThemeDir%RazorArt_Ipack Entire Network.ico
+Workgroup=%ThemeDir%RazorArt_Ipack Workgroup.ico
+Computer=%ThemeDir%RazorArt_Ipack Computer.ico
+Audio CD=%ThemeDir%RazorArt_Ipack Audio CD.ico
+[File Icons]
+Bitmap Image=%ThemeDir%RazorArt_Ipack Bitmap Image.ico
+Configuration Settings=%ThemeDir%RazorArt_Ipack Configuration Settings.ico
+Default Icon=%ThemeDir%RazorArt_Ipack Default Icon.ico
+Default Document=%ThemeDir%RazorArt_Ipack Default Document.ico
+GIF Image=%ThemeDir%RazorArt_Ipack GIF Image.ico
+Internet Document=%ThemeDir%RazorArt_Ipack Internet Document.ico
+JPEG Image=%ThemeDir%RazorArt_Ipack JPEG Image.ico
+Media Clip=%ThemeDir%RazorArt_Ipack Media Clip.ico
+MIDI Sequence=%ThemeDir%RazorArt_Ipack MIDI Sequence.ico
+Movie Clip=%ThemeDir%RazorArt_Ipack Movie Clip.ico
+MS-DOS Application=%ThemeDir%RazorArt_Ipack MS-DOS Application.ico
+MS-DOS Batch File=%ThemeDir%RazorArt_Ipack MS-DOS Batch File.ico
+Rich Text Format=%ThemeDir%RazorArt_Ipack Rich Text Format.ico
+Text Document=%ThemeDir%RazorArt_Ipack Text Document.ico
+Video Clip=%ThemeDir%RazorArt_Ipack Video Clip.ico
+Wave Sound=%ThemeDir%RazorArt_Ipack Wave Sound.ico
+Write Document=%ThemeDir%RazorArt_Ipack Write Document.ico
+Zip File=%ThemeDir%RazorArt_Ipack Zip File.ico
+[Include]
+Read Me=%ThemeDir%Read Me.txt

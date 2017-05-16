@@ -1,0 +1,98 @@
+[Software Credits]
+Software=IconPackager 1.0
+Company=Stardock Systems, Inc
+Author=Brian Harper
+Website=http://www.stardock.com
+Email=support@stardock.com
+[Desktop Icons]
+My Documents=%ThemeDir%OPENSTEP_EUI My Documents.ico
+My Computer=%ThemeDir%OPENSTEP_EUI My Computer.ico
+Network Neighborhood=%ThemeDir%OPENSTEP_EUI Network Neighborhood.ico
+The Internet=%ThemeDir%OPENSTEP_EUI The Internet.ico
+In Box=%ThemeDir%OPENSTEP_EUI In Box.ico
+My Briefcase=%ThemeDir%OPENSTEP_EUI My Briefcase.ico
+Recycle Bin (empty)=%ThemeDir%OPENSTEP_EUI Recycle Bin (empty).ico
+Recycle Bin (full)=%ThemeDir%OPENSTEP_EUI Recycle Bin (full).ico
+[Start Icons]
+Programs=%ThemeDir%OPENSTEP_EUI Programs.ico
+Favorites=%ThemeDir%OPENSTEP_EUI Favorites.ico
+Documents=%ThemeDir%OPENSTEP_EUI Documents.ico
+Settings=%ThemeDir%OPENSTEP_EUI Settings.ico
+Find=%ThemeDir%OPENSTEP_EUI Find.ico
+Help=%ThemeDir%OPENSTEP_EUI Help.ico
+Run=%ThemeDir%OPENSTEP_EUI Run.ico
+Log Off=%ThemeDir%OPENSTEP_EUI Log Off.ico
+Suspend=%ThemeDir%OPENSTEP_EUI Suspend.ico
+Shut Down=%ThemeDir%OPENSTEP_EUI Shut Down.ico
+Settings - Control Panel=%ThemeDir%OPENSTEP_EUI Settings - Control Panel.ico
+Settings - Printers=%ThemeDir%OPENSTEP_EUI Settings - Printers.ico
+[Folder Icons]
+Closed Folder=%ThemeDir%OPENSTEP_EUI Closed Folder.ico
+Open Folder=%ThemeDir%OPENSTEP_EUI Open Folder.ico
+Program Group=%ThemeDir%OPENSTEP_EUI Program Group.ico
+Users Program Group=%ThemeDir%OPENSTEP_EUI Users Program Group.ico
+Control Panel=%ThemeDir%OPENSTEP_EUI Control Panel.ico
+Administrative Tools=%ThemeDir%OPENSTEP_EUI Administrative Tools.ico
+Fonts=%ThemeDir%OPENSTEP_EUI Fonts.ico
+Dial-Up Networking=%ThemeDir%OPENSTEP_EUI Dial-Up Networking.ico
+Printers=%ThemeDir%OPENSTEP_EUI Printers.ico
+Scheduled Tasks=%ThemeDir%OPENSTEP_EUI Scheduled Tasks.ico
+Web Folders=%ThemeDir%OPENSTEP_EUI Web Folders.ico
+ActiveX Cache=%ThemeDir%OPENSTEP_EUI ActiveX Cache.ico
+Favorites=%ThemeDir%OPENSTEP_EUI Favorites.ico
+Subscriptions=%ThemeDir%OPENSTEP_EUI Subscriptions.ico
+Url History=%ThemeDir%OPENSTEP_EUI Url History.ico
+[Drive Icons]
+Floppy Drive 5¼=%ThemeDir%OPENSTEP_EUI Floppy Drive 5¼.ico
+Floppy Drive 3½=%ThemeDir%OPENSTEP_EUI Floppy Drive 3½.ico
+Hard Drive=%ThemeDir%OPENSTEP_EUI Hard Drive.ico
+Network Drive (connected)=%ThemeDir%OPENSTEP_EUI Network Drive (connected).ico
+Network Drive (offline)=%ThemeDir%OPENSTEP_EUI Network Drive (offline).ico
+CD-ROM Drive=%ThemeDir%OPENSTEP_EUI CD-ROM Drive.ico
+Removable Drive=%ThemeDir%OPENSTEP_EUI Removable Drive.ico
+RAM Drive=%ThemeDir%OPENSTEP_EUI RAM Drive.ico
+[Other Icons]
+Shortcut Overlay=%ThemeDir%OPENSTEP_EUI Shortcut Overlay.ico
+Sharing Overlay=%ThemeDir%OPENSTEP_EUI Sharing Overlay.ico
+Desktop=%ThemeDir%OPENSTEP_EUI Desktop.ico
+Entire Network=%ThemeDir%OPENSTEP_EUI Entire Network.ico
+Workgroup=%ThemeDir%OPENSTEP_EUI Workgroup.ico
+Computer=%ThemeDir%OPENSTEP_EUI Computer.ico
+Audio CD=%ThemeDir%OPENSTEP_EUI Audio CD.ico
+[File Icons]
+Bitmap Image=%ThemeDir%OPENSTEP_EUI Bitmap Image.ico
+Configuration Settings=%ThemeDir%OPENSTEP_EUI Configuration Settings.ico
+Default Icon=%ThemeDir%OPENSTEP_EUI Default Icon.ico
+Default Document=%ThemeDir%OPENSTEP_EUI Default Document.ico
+GIF Image=%ThemeDir%OPENSTEP_EUI GIF Image.ico
+Internet Document=%ThemeDir%OPENSTEP_EUI Internet Document.ico
+JPEG Image=%ThemeDir%OPENSTEP_EUI JPEG Image.ico
+Media Clip=%ThemeDir%OPENSTEP_EUI Media Clip.ico
+MIDI Sequence=%ThemeDir%OPENSTEP_EUI MIDI Sequence.ico
+Movie Clip=%ThemeDir%OPENSTEP_EUI Movie Clip.ico
+MS-DOS Application=%ThemeDir%OPENSTEP_EUI MS-DOS Application.ico
+MS-DOS Batch File=%ThemeDir%OPENSTEP_EUI MS-DOS Batch File.ico
+Rich Text Format=%ThemeDir%OPENSTEP_EUI Rich Text Format.ico
+Text Document=%ThemeDir%OPENSTEP_EUI Text Document.ico
+Video Clip=%ThemeDir%OPENSTEP_EUI Video Clip.ico
+Wave Sound=%ThemeDir%OPENSTEP_EUI Wave Sound.ico
+Write Document=%ThemeDir%OPENSTEP_EUI Write Document.ico
+Zip File=%ThemeDir%OPENSTEP_EUI Zip File.ico
+[Include]
+Read Me=%ThemeDir%Read Me.txt
+[Cursors]
+Normal Select=%ThemeDir%OPENSTEP_EUI Normal Select.cur
+Help Select=%ThemeDir%OPENSTEP_EUI Help Select.cur
+Working In Background=%ThemeDir%OPENSTEP_EUI Working In Background.ani
+Busy=%ThemeDir%OPENSTEP_EUI Busy.ani
+Precision Select=%ThemeDir%OPENSTEP_EUI Precision Select.cur
+Text Select=%ThemeDir%OPENSTEP_EUI Text Select.cur
+Handwriting=%ThemeDir%OPENSTEP_EUI Handwriting.cur
+Unavailable=%ThemeDir%OPENSTEP_EUI Unavailable.cur
+Vertical Resize=%ThemeDir%OPENSTEP_EUI Vertical Resize.cur
+Horizontal Resize=%ThemeDir%OPENSTEP_EUI Horizontal Resize.cur
+Diagonal Resize 1=%ThemeDir%OPENSTEP_EUI Diagonal Resize 1.cur
+Diagonal Resize 2=%ThemeDir%OPENSTEP_EUI Diagonal Resize 2.cur
+Move=%ThemeDir%OPENSTEP_EUI Move.cur
+Alternate Select=%ThemeDir%OPENSTEP_EUI Alternate Select.cur
+Hand=

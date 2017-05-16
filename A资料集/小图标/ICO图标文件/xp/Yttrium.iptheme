@@ -1,0 +1,81 @@
+[Software Credits]
+Software=IconPackager 1.5
+Company=Stardock Systems, Inc
+Author=Brian Harper
+Website=http://www.stardock.com
+Email=support@stardock.com
+
+[Desktop Icons]
+My Computer=%ThemeDir%Yttrium Icon 1.ico
+My Documents=%ThemeDir%Yttrium Icon 2.ico
+Network Neighborhood=%ThemeDir%Yttrium Icon 3.ico
+The Internet=%ThemeDir%Yttrium Icon 4.ico
+Recycle Bin (empty)=%ThemeDir%Yttrium Icon 5.ico
+Recycle Bin (full)=%ThemeDir%Yttrium Icon 6.ico
+
+[Start Icons]
+Programs=%ThemeDir%Yttrium Icon 7.ico
+Favorites=%ThemeDir%Yttrium Icon 8.ico
+Documents=%ThemeDir%Yttrium Icon 9.ico
+Settings=%ThemeDir%Yttrium Icon 10.ico
+Find=%ThemeDir%Yttrium Icon 11.ico
+Help=%ThemeDir%Yttrium Icon 12.ico
+Run=%ThemeDir%Yttrium Icon 13.ico
+Log Off=%ThemeDir%Yttrium Icon 14.ico
+Shut Down=%ThemeDir%Yttrium Icon 15.ico
+Settings - Control Panel=%ThemeDir%Yttrium Icon 16.ico
+Settings - Printers=%ThemeDir%Yttrium Icon 17.ico
+
+[Folder Icons]
+Closed Folder=%ThemeDir%Yttrium Icon 18.ico
+Open Folder=%ThemeDir%Yttrium Icon 19.ico
+Program Group=%ThemeDir%Yttrium Icon 20.ico
+Control Panel=%ThemeDir%Yttrium Icon 21.ico
+Printers=%ThemeDir%Yttrium Icon 22.ico
+Scheduled Tasks=%ThemeDir%Yttrium Icon 23.ico
+Web Folders=%ThemeDir%Yttrium Icon 24.ico
+ActiveX Cache=%ThemeDir%Yttrium Icon 25.ico
+Favorites=%ThemeDir%Yttrium Icon 26.ico
+Url History=%ThemeDir%Yttrium Icon 27.ico
+Subscriptions=%ThemeDir%Yttrium Icon 28.ico
+
+[Drive Icons]
+Floppy Drive (5.25)=%ThemeDir%Yttrium Icon 29.ico
+Floppy Drive (3.5)=%ThemeDir%Yttrium Icon 30.ico
+Hard Drive=%ThemeDir%Yttrium Icon 31.ico
+Network Drive (connected)=%ThemeDir%Yttrium Icon 32.ico
+Network Drive (offline)=%ThemeDir%Yttrium Icon 33.ico
+CD-ROM Drive=%ThemeDir%Yttrium Icon 34.ico
+Removable Drive=%ThemeDir%Yttrium Icon 35.ico
+RAM Drive=%ThemeDir%Yttrium Icon 36.ico
+
+[Other Icons]
+Shortcut Overlay=%ThemeDir%Yttrium Icon 37.ico
+Sharing Overlay=%ThemeDir%Yttrium Icon 38.ico
+Desktop=%ThemeDir%Yttrium Icon 39.ico
+Entire Network=%ThemeDir%Yttrium Icon 40.ico
+Workgroup=%ThemeDir%Yttrium Icon 41.ico
+Computer=%ThemeDir%Yttrium Icon 42.ico
+Audio CD=%ThemeDir%Yttrium Icon 43.ico
+
+[File Icons]
+Bitmap Image=%ThemeDir%Yttrium Icon 44.ico
+Configuration Settings=%ThemeDir%Yttrium Icon 45.ico
+Default Icon=%ThemeDir%Yttrium Icon 46.ico
+Default Document=%ThemeDir%Yttrium Icon 47.ico
+GIF Image=%ThemeDir%Yttrium Icon 48.ico
+Internet Document=%ThemeDir%Yttrium Icon 49.ico
+JPEG Image=%ThemeDir%Yttrium Icon 50.ico
+MIDI Sequence=%ThemeDir%Yttrium Icon 51.ico
+Movie Clip=%ThemeDir%Yttrium Icon 52.ico
+MS-DOS Application=%ThemeDir%Yttrium Icon 53.ico
+MS-DOS Batch File=%ThemeDir%Yttrium Icon 54.ico
+Rich Text Format=%ThemeDir%Yttrium Icon 55.ico
+Text Document=%ThemeDir%Yttrium Icon 56.ico
+Video Clip=%ThemeDir%Yttrium Icon 57.ico
+Wave Sound=%ThemeDir%Yttrium Icon 58.ico
+Write Document=%ThemeDir%Yttrium Icon 59.ico
+Zip File=%ThemeDir%Yttrium Icon 60.ico
+
+[Include]
+Read Me=%ThemeDir%Read Me.txt

@@ -1,0 +1,98 @@
+[Software Credits]
+Software=IconPackager 1.0
+Company=Stardock.net, Inc.
+Author=Brian Harper
+Website=http://www.stardock.com
+Email=support@stardock.com
+[Desktop Icons]
+My Documents=%ThemeDir% My Documents.ico 
+My Computer=%ThemeDir%My Computer.ico
+Network Neighborhood=%ThemeDir%Network Neighborhood.ico
+The Internet=%ThemeDir%The Internet.ico
+In Box=
+My Briefcase=%ThemeDir%My Briefcase.ico 
+Recycle Bin (empty)=%ThemeDir%Recycle Bin empty.ico
+Recycle Bin (full)=%ThemeDir%Recycle Bin full.ico
+[Start Icons]
+Programs=%ThemeDir%PROGRAMS.ico 
+Favorites=%ThemeDir%FAVORITES.ico 
+Documents=%ThemeDir%Documents.ico
+Settings=%ThemeDir%Settings.ico
+Find=%ThemeDir%FIND.ico
+Help=%ThemeDir%HELP.ico 
+Run= 
+Log Off=%ThemeDir%LOG OF.ico
+Suspend=%ThemeDir%STAND BY.ico 
+Shut Down=%ThemeDir%TURN OF.ico
+Settings - Control Panel=%ThemeDir%Settings.ico
+Settings - Printers=%ThemeDir%PRINTER.ico 
+[Folder Icons]
+Closed Folder=%ThemeDir%Closed Folder.ico
+Open Folder=%ThemeDir%Open Folder.ico
+Program Group=%ThemeDir%PROGRAMS.ico 
+Users Program Group=%ThemeDir%PROGRAMS.ico 
+Control Panel=%ThemeDir%Settings.ico 
+Administrative Tools=
+Fonts=
+Dial-Up Networking=%ThemeDir%DialUp Networking.ico
+Printers=%ThemeDir%PRINTER.ico 
+Scheduled Tasks= 
+Web Folders= 
+ActiveX Cache=
+Favorites=%ThemeDir%FAVORITES.ico
+Subscriptions=
+Url History=
+[Drive Icons]
+Hard Drive=%ThemeDir%Hard Drive.ico
+Network Drive (connected)=
+Network Drive (offline)=
+CD-ROM Drive=%ThemeDir%CDROM Drive.ico
+Removable Drive=
+RAM Drive=
+Floppy Drive (3.5)=%ThemeDir%Floppy Drive.ico
+Floppy Drive (5.25)=
+[Other Icons]
+Shortcut Overlay= 
+Sharing Overlay= 
+Desktop=%ThemeDir%Desktop.ico 
+Entire Network=%ThemeDir%Network Neighborhood.ico 
+Workgroup=
+Computer=%ThemeDir% My Computer.ico
+Audio CD=%ThemeDir%AUDIO Drive.ico
+[File Icons]
+Bitmap Image=
+Configuration Settings=
+Default Icon=%ThemeDir%Default Icon.ico
+Default Document=%ThemeDir%Default Document.ico
+GIF Image=
+Internet Document= 
+JPEG Image=
+Media Clip=
+MIDI Sequence=
+Movie Clip=
+MS-DOS Application= 
+MS-DOS Batch File= 
+Rich Text Format= 
+Text Document=%ThemeDir%Text Document.ico 
+Video Clip=
+Wave Sound=
+Write Document=
+Zip File=%ThemeDir%ZIP.ico
+[Cursors]
+Normal Select=
+Help Select=
+Working In Background=
+Busy=
+Precision Select=
+Text Select=
+Handwriting=
+Unavailable=
+Vertical Resize=
+Horizontal Resize=
+Diagonal Resize 1=
+Diagonal Resize 2=
+Move=
+Alternate Select=
+Hand=
+[Include]
+Read Me=

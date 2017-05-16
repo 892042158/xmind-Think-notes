@@ -1,0 +1,81 @@
+[Software Credits]
+Software=IconPackager 1.51
+Company=Stardock Systems, Inc
+Author=Brian Harper
+Website=http://www.stardock.com
+Email=support@stardock.com
+
+[Desktop Icons]
+My Computer=%ThemeDir%Nitrogen Icon 1.ico
+My Documents=%ThemeDir%Nitrogen Icon 2.ico
+Network Neighborhood=%ThemeDir%Nitrogen Icon 3.ico
+The Internet=%ThemeDir%Nitrogen Icon 4.ico
+Recycle Bin (empty)=%ThemeDir%Nitrogen Icon 5.ico
+Recycle Bin (full)=%ThemeDir%Nitrogen Icon 6.ico
+
+[Start Icons]
+Programs=%ThemeDir%Nitrogen Icon 7.ico
+Favorites=%ThemeDir%Nitrogen Icon 8.ico
+Documents=%ThemeDir%Nitrogen Icon 9.ico
+Settings=%ThemeDir%Nitrogen Icon 10.ico
+Find=%ThemeDir%Nitrogen Icon 11.ico
+Help=%ThemeDir%Nitrogen Icon 12.ico
+Run=%ThemeDir%Nitrogen Icon 13.ico
+Log Off=%ThemeDir%Nitrogen Icon 14.ico
+Shut Down=%ThemeDir%Nitrogen Icon 15.ico
+Settings - Control Panel=%ThemeDir%Nitrogen Icon 16.ico
+Settings - Printers=%ThemeDir%Nitrogen Icon 17.ico
+
+[Folder Icons]
+Closed Folder=%ThemeDir%Nitrogen Icon 18.ico
+Open Folder=%ThemeDir%Nitrogen Icon 19.ico
+Program Group=%ThemeDir%Nitrogen Icon 20.ico
+Control Panel=%ThemeDir%Nitrogen Icon 21.ico
+Printers=%ThemeDir%Nitrogen Icon 22.ico
+Scheduled Tasks=%ThemeDir%Nitrogen Icon 23.ico
+Web Folders=%ThemeDir%Nitrogen Icon 24.ico
+ActiveX Cache=%ThemeDir%Nitrogen Icon 25.ico
+Favorites=%ThemeDir%Nitrogen Icon 26.ico
+Url History=%ThemeDir%Nitrogen Icon 27.ico
+Subscriptions=%ThemeDir%Nitrogen Icon 28.ico
+
+[Drive Icons]
+Floppy Drive (5.25)=%ThemeDir%Nitrogen Icon 29.ico
+Floppy Drive (3.5)=%ThemeDir%Nitrogen Icon 30.ico
+Hard Drive=%ThemeDir%Nitrogen Icon 31.ico
+Network Drive (connected)=%ThemeDir%Nitrogen Icon 32.ico
+Network Drive (offline)=%ThemeDir%Nitrogen Icon 33.ico
+CD-ROM Drive=%ThemeDir%Nitrogen Icon 34.ico
+Removable Drive=%ThemeDir%Nitrogen Icon 35.ico
+RAM Drive=%ThemeDir%Nitrogen Icon 36.ico
+
+[Other Icons]
+Shortcut Overlay=%ThemeDir%Nitrogen Icon 37.ico
+Sharing Overlay=%ThemeDir%Nitrogen Icon 38.ico
+Desktop=%ThemeDir%Nitrogen Icon 39.ico
+Entire Network=%ThemeDir%Nitrogen Icon 40.ico
+Workgroup=%ThemeDir%Nitrogen Icon 41.ico
+Computer=%ThemeDir%Nitrogen Icon 42.ico
+Audio CD=%ThemeDir%Nitrogen Icon 43.ico
+
+[File Icons]
+Bitmap Image=%ThemeDir%Nitrogen Icon 44.ico
+Configuration Settings=%ThemeDir%Nitrogen Icon 45.ico
+Default Icon=%ThemeDir%Nitrogen Icon 46.ico
+Default Document=%ThemeDir%Nitrogen Icon 47.ico
+GIF Image=%ThemeDir%Nitrogen Icon 48.ico
+Internet Document=%ThemeDir%Nitrogen Icon 49.ico
+JPEG Image=%ThemeDir%Nitrogen Icon 50.ico
+MIDI Sequence=%ThemeDir%Nitrogen Icon 51.ico
+Movie Clip=%ThemeDir%Nitrogen Icon 52.ico
+MS-DOS Application=%ThemeDir%Nitrogen Icon 53.ico
+MS-DOS Batch File=%ThemeDir%Nitrogen Icon 54.ico
+Rich Text Format=%ThemeDir%Nitrogen Icon 55.ico
+Text Document=%ThemeDir%Nitrogen Icon 56.ico
+Video Clip=%ThemeDir%Nitrogen Icon 57.ico
+Wave Sound=%ThemeDir%Nitrogen Icon 58.ico
+Write Document=%ThemeDir%Nitrogen Icon 59.ico
+Zip File=%ThemeDir%Nitrogen Icon 60.ico
+
+[Include]
+Read Me=%ThemeDir%Read Me.txt

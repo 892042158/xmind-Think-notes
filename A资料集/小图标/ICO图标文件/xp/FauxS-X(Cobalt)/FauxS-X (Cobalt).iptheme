@@ -1,0 +1,84 @@
+[Software Credits]
+Software=IconPackager 1.51
+Company=Stardock Systems, Inc
+Author=Paul Boyer
+Website=http://www.fauxs-x.com
+Email=mormegil@odyssey-3.com
+
+[Desktop Icons]
+My Documents=%ThemeDir%FauxS-X (Cobalt) Icon 1.ico
+My Computer=%ThemeDir%FauxS-X (Cobalt) Icon 2.ico
+Network Neighborhood=%ThemeDir%FauxS-X (Cobalt) Icon 3.ico
+The Internet=%ThemeDir%FauxS-X (Cobalt) Icon 4.ico
+In Box=%ThemeDir%FauxS-X (Cobalt) Icon 5.ico
+Recycle Bin (empty)=%ThemeDir%FauxS-X (Cobalt) Icon 6.ico
+Recycle Bin (full)=%ThemeDir%FauxS-X (Cobalt) Icon 7.ico
+
+[Start Icons]
+Programs=%ThemeDir%FauxS-X (Cobalt) Icon 8.ico
+Favorites=%ThemeDir%FauxS-X (Cobalt) Icon 9.ico
+Documents=%ThemeDir%FauxS-X (Cobalt) Icon 10.ico
+Settings=%ThemeDir%FauxS-X (Cobalt) Icon 11.ico
+Find=%ThemeDir%FauxS-X (Cobalt) Icon 12.ico
+Help=%ThemeDir%FauxS-X (Cobalt) Icon 13.ico
+Run=%ThemeDir%FauxS-X (Cobalt) Icon 14.ico
+Shut Down=%ThemeDir%FauxS-X (Cobalt) Icon 15.ico
+Settings - Control Panel=%ThemeDir%FauxS-X (Cobalt) Icon 16.ico
+Settings - Printers=%ThemeDir%FauxS-X (Cobalt) Icon 17.ico
+
+[Folder Icons]
+Closed Folder=%ThemeDir%FauxS-X (Cobalt) Icon 18.ico
+Open Folder=%ThemeDir%FauxS-X (Cobalt) Icon 19.ico
+Program Group=%ThemeDir%FauxS-X (Cobalt) Icon 20.ico
+Control Panel=%ThemeDir%FauxS-X (Cobalt) Icon 21.ico
+Administrative Tools=%ThemeDir%FauxS-X (Cobalt) Icon 22.ico
+Fonts=%ThemeDir%FauxS-X (Cobalt) Icon 23.ico
+Dial-Up Networking=%ThemeDir%FauxS-X (Cobalt) Icon 24.ico
+Printers=%ThemeDir%FauxS-X (Cobalt) Icon 25.ico
+Scheduled Tasks=%ThemeDir%FauxS-X (Cobalt) Icon 26.ico
+ActiveX Cache=%ThemeDir%FauxS-X (Cobalt) Icon 27.ico
+Favorites=%ThemeDir%FauxS-X (Cobalt) Icon 28.ico
+Url History=%ThemeDir%FauxS-X (Cobalt) Icon 29.ico
+Subscriptions=%ThemeDir%FauxS-X (Cobalt) Icon 30.ico
+
+[Drive Icons]
+Floppy Drive (5.25)=%ThemeDir%FauxS-X (Cobalt) Icon 31.ico
+Floppy Drive (3.5)=%ThemeDir%FauxS-X (Cobalt) Icon 32.ico
+Hard Drive=%ThemeDir%FauxS-X (Cobalt) Icon 33.ico
+Network Drive (connected)=%ThemeDir%FauxS-X (Cobalt) Icon 34.ico
+Network Drive (offline)=%ThemeDir%FauxS-X (Cobalt) Icon 35.ico
+CD-ROM Drive=%ThemeDir%FauxS-X (Cobalt) Icon 36.ico
+Removable Drive=%ThemeDir%FauxS-X (Cobalt) Icon 37.ico
+RAM Drive=%ThemeDir%FauxS-X (Cobalt) Icon 38.ico
+
+[Other Icons]
+Shortcut Overlay=%ThemeDir%FauxS-X (Cobalt) Icon 39.ico
+Sharing Overlay=%ThemeDir%FauxS-X (Cobalt) Icon 40.ico
+Desktop=%ThemeDir%FauxS-X (Cobalt) Icon 41.ico
+Entire Network=%ThemeDir%FauxS-X (Cobalt) Icon 42.ico
+Workgroup=%ThemeDir%FauxS-X (Cobalt) Icon 43.ico
+Computer=%ThemeDir%FauxS-X (Cobalt) Icon 44.ico
+Audio CD=%ThemeDir%FauxS-X (Cobalt) Icon 45.ico
+
+[File Icons]
+Bitmap Image=%ThemeDir%FauxS-X (Cobalt) Icon 46.ico
+Configuration Settings=%ThemeDir%FauxS-X (Cobalt) Icon 47.ico
+Default Icon=%ThemeDir%FauxS-X (Cobalt) Icon 48.ico
+Default Document=%ThemeDir%FauxS-X (Cobalt) Icon 49.ico
+GIF Image=%ThemeDir%FauxS-X (Cobalt) Icon 50.ico
+Internet Document=%ThemeDir%FauxS-X (Cobalt) Icon 51.ico
+JPEG Image=%ThemeDir%FauxS-X (Cobalt) Icon 52.ico
+Media Clip=%ThemeDir%FauxS-X (Cobalt) Icon 53.ico
+MIDI Sequence=%ThemeDir%FauxS-X (Cobalt) Icon 54.ico
+Movie Clip=%ThemeDir%FauxS-X (Cobalt) Icon 55.ico
+MS-DOS Application=%ThemeDir%FauxS-X (Cobalt) Icon 56.ico
+MS-DOS Batch File=%ThemeDir%FauxS-X (Cobalt) Icon 57.ico
+Rich Text Format=%ThemeDir%FauxS-X (Cobalt) Icon 58.ico
+Text Document=%ThemeDir%FauxS-X (Cobalt) Icon 59.ico
+Video Clip=%ThemeDir%FauxS-X (Cobalt) Icon 60.ico
+Wave Sound=%ThemeDir%FauxS-X (Cobalt) Icon 61.ico
+Write Document=%ThemeDir%FauxS-X (Cobalt) Icon 62.ico
+Zip File=%ThemeDir%FauxS-X (Cobalt) Icon 63.ico
+
+[Include]
+Read Me=%ThemeDir%Read Me.txt

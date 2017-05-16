@@ -1,0 +1,106 @@
+[Software Credits]
+Software=IconPackager 1.0
+Company=Stardock Systems, Inc
+Author=Brian Harper
+Website=http://www.stardock.com
+Email=support@stardock.com
+
+[Desktop Icons]
+My Documents=%ThemeDir%KDE My Documents.ico
+My Computer=%ThemeDir%KDE My Computer.ico
+Network Neighborhood=%ThemeDir%KDE Network Neighborhood.ico
+The Internet=%ThemeDir%KDE The Internet.ico
+In Box=%ThemeDir%KDE In Box.ico
+My Briefcase=%ThemeDir%KDE My Briefcase.ico
+Recycle Bin (empty)=%ThemeDir%KDE Recycle Bin (empty).ico
+Recycle Bin (full)=%ThemeDir%KDE Recycle Bin (full).ico
+
+[Start Icons]
+Programs=%ThemeDir%KDE Programs.ico
+Favorites=%ThemeDir%KDE Favorites.ico
+Documents=%ThemeDir%KDE Documents.ico
+Settings=%ThemeDir%KDE Settings.ico
+Find=%ThemeDir%KDE Find.ico
+Help=%ThemeDir%KDE Help.ico
+Run=%ThemeDir%KDE Run.ico
+Log Off=%ThemeDir%KDE Log Off.ico
+Suspend=%ThemeDir%KDE Suspend.ico
+Shut Down=%ThemeDir%KDE Shut Down.ico
+Settings - Control Panel=%ThemeDir%KDE Settings - Control Panel.ico
+Settings - Printers=%ThemeDir%KDE Settings - Printers.ico
+
+[Folder Icons]
+Closed Folder=%ThemeDir%KDE Closed Folder.ico
+Open Folder=%ThemeDir%KDE Open Folder.ico
+Program Group=%ThemeDir%KDE Program Group.ico
+Users Program Group=%ThemeDir%KDE Users Program Group.ico
+Control Panel=%ThemeDir%KDE Control Panel.ico
+Administrative Tools=%ThemeDir%KDE Administrative Tools.ico
+Fonts=%ThemeDir%KDE Fonts.ico
+Dial-Up Networking=%ThemeDir%KDE Dial-Up Networking.ico
+Printers=%ThemeDir%KDE Printers.ico
+Scheduled Tasks=%ThemeDir%KDE Scheduled Tasks.ico
+Web Folders=%ThemeDir%KDE Web Folders.ico
+ActiveX Cache=%ThemeDir%KDE ActiveX Cache.ico
+Favorites=%ThemeDir%KDE Favorites.ico
+Subscriptions=%ThemeDir%KDE Subscriptions.ico
+Url History=%ThemeDir%KDE Url History.ico
+
+[Drive Icons]
+Floppy Drive 5¼=%ThemeDir%KDE Floppy Drive 5¼.ico
+Floppy Drive 3½=%ThemeDir%KDE Floppy Drive 3½.ico
+Hard Drive=%ThemeDir%KDE Hard Drive.ico
+Network Drive (connected)=%ThemeDir%KDE Network Drive (connected).ico
+Network Drive (offline)=%ThemeDir%KDE Network Drive (offline).ico
+CD-ROM Drive=%ThemeDir%KDE CD-ROM Drive.ico
+Removable Drive=%ThemeDir%KDE Removable Drive.ico
+RAM Drive=%ThemeDir%KDE RAM Drive.ico
+
+[Other Icons]
+Shortcut Overlay=%ThemeDir%KDE Shortcut Overlay.ico
+Sharing Overlay=
+Desktop=%ThemeDir%KDE Desktop.ico
+Entire Network=%ThemeDir%KDE Entire Network.ico
+Workgroup=%ThemeDir%KDE Workgroup.ico
+Computer=%ThemeDir%KDE Computer.ico
+Audio CD=%ThemeDir%KDE Audio CD.ico
+
+[File Icons]
+Bitmap Image=%ThemeDir%KDE Bitmap Image.ico
+Configuration Settings=%ThemeDir%KDE Configuration Settings.ico
+Default Icon=%ThemeDir%KDE Default Icon.ico
+Default Document=%ThemeDir%KDE Default Document.ico
+GIF Image=%ThemeDir%KDE GIF Image.ico
+Internet Document=%ThemeDir%KDE Internet Document.ico
+JPEG Image=%ThemeDir%KDE JPEG Image.ico
+Media Clip=%ThemeDir%KDE Media Clip.ico
+MIDI Sequence=%ThemeDir%KDE MIDI Sequence.ico
+Movie Clip=%ThemeDir%KDE Movie Clip.ico
+MS-DOS Application=%ThemeDir%KDE MS-DOS Application.ico
+MS-DOS Batch File=%ThemeDir%KDE MS-DOS Batch File.ico
+Rich Text Format=%ThemeDir%KDE Rich Text Format.ico
+Text Document=%ThemeDir%KDE Text Document.ico
+Video Clip=%ThemeDir%KDE Video Clip.ico
+Wave Sound=%ThemeDir%KDE Wave Sound.ico
+Write Document=%ThemeDir%KDE Write Document.ico
+Zip File=%ThemeDir%KDE Zip File.ico
+
+[Cursors]
+Normal Select=%ThemeDir%KDE Normal Select.cur
+Help Select=%ThemeDir%KDE Help Select.ani
+Working In Background=%ThemeDir%KDE Working In Background.ani
+Busy=%ThemeDir%KDE Busy.cur
+Precision Select=%ThemeDir%KDE Precision Select.cur
+Text Select=%ThemeDir%KDE Text Select.cur
+Handwriting=%ThemeDir%KDE Handwriting.cur
+Unavailable=
+Vertical Resize=%ThemeDir%KDE Vertical Resize.ani
+Horizontal Resize=
+Diagonal Resize 1=
+Diagonal Resize 2=
+Move=
+Alternate Select=
+Hand=
+
+[Include]
+Read Me=%ThemeDir%Read Me.txt

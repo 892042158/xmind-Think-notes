@@ -1,0 +1,67 @@
+===============================================================================
+ Megapack #1 Icon Collection
+-------------------------------------------------------------------------------
+ Copyright ©2001 Greg Fleming of Dark Project Studios.
+===============================================================================
+
+	ICON PACK NAME:         Megapack #1
+        DATE RELEASED:          04/07/2001
+        ICON FORMAT:            Win .ico (16x16 only)
+        # OF ICONS in pack:     124
+
+	AUTHOR:                 Greg Fleming (aka Hell Dragon)
+	e-MAIL:                 helldragon@darkproject.com
+	WEB:                    http://www.darkproject.com	
+
+
+[-- Tools Used: --]
+-------------------------------------------------------------------------------
+
+  [ x ] Adobe PhotoShop
+  [   ] JASC's Paint Shop Pro
+  [ x ] Microangelo Icon Studio
+  [ x ] Icon Collector Graphics Editor
+  [   ] Adobe Illustrator
+
+
+[-- Icon Description: --]
+-------------------------------------------------------------------------------
+
+From apples and oranges, to devils, angels, UFO's and tribal symbols this pack has
+a large assortment of various 16x16 glyph icons...
+
+I was inspired to create this pack after seeing the 'Glyph' icon sets by Scrow who
+is an excellent icon creator from Israel and also the creator of iPhile - an freeware
+Icon changing application.
+
+Some good uses for them could be in your Quick Launch menu or a similar application
+launcher. Please remember these icons are Freeware ONLY for Personal use on your
+own PC - if you want to use them in other ways please contact me.
+
+
+[-- Copyright & Legal Information: --]
+-------------------------------------------------------------------------------
+
+a) ALL of these ICONS were created solely by Greg Fleming (aka Hell Dragon) of
+   darkproject.com.
+
+b) The icons are Freeware for PERSONAL USE only.
+
+c) The icons may NOT be re-distributed on download sites without my permission
+   and when they are I must be given FULL credit for the work, as the original
+   creator of the icons.
+
+d) This readme file must also be KEPT intact and unaltered with any of the icons
+   that are distributed and the icons may NOT be CHANGED, RENAMED or ALTERED
+   in any way.
+
+e) Feel free to use my icons for your own individual projects and needs - but 
+   my permission MUST be acquired before any money may be made from the icons.
+   
+f) Therefore, YOU may NOT use my icons in any THEMES, SKINS, SOFTWARE,
+   WEBSITES, Books, CD's or in any COMMERCIAL way... without my PERMISSION first.
+
+g) If you want to use them in your software applications, or to use them as graphics
+   for your personal web page, please drop me an e-mail with the details and the URL.
+
+-------------------------------------------------------------------------------
