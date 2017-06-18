@@ -1,0 +1,37 @@
+commons-dbutils学习
+
+简介
+
+Apache的DbUtils工具是一个轻量级的持久层解决方案，天生为性能而生，它简单的对JDBC进行了必要的操作封装，让开发人员能够以一种高级API的方式使用JDBC技术完成原本复杂的CRUD操作
+
+常用类
+
+1、DbUtils : 提供如关闭连接、装载 JDBC 驱动程序等常规工作的工具类；
+
+2、QueryRunner : 该类简单化了 SQL 查询，它常与与 ResultSetHandler 组合在一起使用；
+
+org.apache.commons.dbutils.handlers包下的常用类
+
+1、ArrayHandler ：将ResultSet中第一行的数据转化成对象数组；
+
+2、ArrayListHandler：将ResultSet中所有的数据转化成List，List中存放的是Object[]；
+
+3、BeanHandler ：将ResultSet中第一行的数据转化成类对象；
+
+4、BeanListHandler ：将ResultSet中所有的数据转化成List，List中存放的是类对象；
+
+5、ColumnListHandler ：将ResultSet中某一列的数据存成List，List中存放的是Object对象；
+
+6、KeyedHandler ：将ResultSet中存成映射，key为某一列对应为Map。Map中存放的是数据；
+
+7、MapHandler ：将ResultSet中第一行的数据存成Map映射；
+
+8、MapListHandler ：将ResultSet中所有的数据存成List。List中存放的是Map；
+
+9、ScalarHandler ：将ResultSet中一条记录的其中某一列的数据存成Object；
+
+org.apache.commons.dbutils.wrappers包下的常用类
+
+1、SqlNullCheckedResultSet ：该类是用来对sql语句执行完成之后的的数值进行null的替换；
+
+2、StringTrimmedResultSet ：去除ResultSet中中字段的左右空格；
